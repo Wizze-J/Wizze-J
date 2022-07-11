@@ -20,6 +20,7 @@ step 1 ：研究进展
 思路启发 ：仅从测试图像本身学习恢复模型的思想在图像超分辨率[1]领域已经证明是可行的。在[1]中，Shocher等人提出了一种超分辨率模型，该模型是一个仅从低分辨率测试图像中提取内部示例训练而成的针对图像的CNN。
 ————————————————
 https://blog.csdn.net/weixin_50901244/article/details/124397446?spm=1001.2014.3001.5502
+https://cslinzhang.github.io/ExCNet/
     b.车辆检测
     
   2、代码复现 （图片、实验室电脑）
@@ -81,3 +82,8 @@ EnlightenGAN算法https://gitcode.net/mirrors/TAMU-VITA/EnlightenGAN?utm_source=
 
 //----------------7月11日----------------------------
 https://blog.csdn.net/weixin_50901244/article/details/123830957?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750280816780357265763%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750280816780357265763&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-123830957-null-null.142^v32^down_rank,185^v2^control&utm_term=%E5%A4%9C%E9%97%B4%20%E4%BD%8E%E7%85%A7%E5%BA%A6%20%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA&spm=1018.2226.3001.4187
+
+Low-Light 部分论文汇总
+https://github.com/rockeyben/Low-Light
+
+
