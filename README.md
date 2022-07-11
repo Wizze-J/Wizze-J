@@ -39,8 +39,25 @@ https://cslinzhang.github.io/ExCNet/
     项目主页：https://baidut.github.io/BIMEF/
     代码地址：https://github.com/baidut/BIMEF
     这篇文章还没有发表，现在处于投稿状态，他们的摘要：“低光图像由于能见度低，不利于人眼观察和计算机视觉算法。虽然已经提出了许多图像增强技术来解决这个问题，但是现有的方法不可避免地引入过对比和过增强。在人类视觉系统的启发下，我们设计了一个多曝光融合框架用于微光图像增强。基于该框架，我们提出了一种双曝光融合算法，以提供精确的对比度和亮度增强。具体而言，我们首先利用照度估计技术设计图像融合的权矩阵。然后介绍我们的相机响应模型来合成多曝光图像。其次，我们找到最佳曝光率，使合成图像在原始图像被曝光的区域被很好地曝光。最后，根据权值矩阵对输入图像和合成图像进行融合，得到增强的结果。实验结果表明，与几种先进的方法相比，我们的方法可以获得较少的对比度和亮度失真。”
+    第二篇文章还未公布，但可以调用算法查看处理效果。
+作者research主页：https://www.researchgate.net/profile/Zhenqiang_Ying
+Github: https://github.com/baidut
 ————————————————
 原文链接：https://blog.csdn.net/piaoxuezhong/article/details/78441241
+      6）《Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement》
+      本文中，提出一种新的轻量级方法，Retinex-inspired Unrolling with Architecture Search (RUAS)，用于在现实世界的场景中为低光图像增强。通过实验验证了 RUAS 框架相对于最近提出的最先进方法的优越性。
+作者 | Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo
+单位 | 大连理工大学等
+论文 | https://arxiv.org/abs/2012.05609
+代码 | https://github.com/dut-media-lab/RUAS
+————————————————
+https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-120755843-blog-78441241.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-120755843-blog-78441241.pc_relevant_default&utm_relevant_index=2
+      7)<Restoring Extremely Dark Images in Real Time>
+  光照图像增强。文章提出一个轻量级的新的深度学习架构，用于极端低照度下的单幅图像修复，不仅推理速度快，轻量级，而且修复效果在感知上与最先进的计算密集型模型相当。
+作者 | Mohit Lamba、Kaushik Mitra
+单位 | 印度理工学院；
+论文 | https://openaccess.thecvf.com/content/CVPR2021/papers/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.pdf
+代码 | https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time
     b.车辆检测
     
   2、代码复现 （图片、实验室电脑）
