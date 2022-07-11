@@ -59,8 +59,12 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
 论文 | https://openaccess.thecvf.com/content/CVPR2021/papers/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.pdf
 代码 | https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time
     b.车辆检测
+    1）文献综述
+  https://blog.csdn.net/shaoshuaiche/article/details/9030057?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750704216782350884372%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165750704216782350884372&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-9030057-null-null.142^v32^down_rank,185^v2^control&utm_term=%E5%A4%9C%E9%97%B4%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
      
   2、代码复现 （图片、实验室电脑）
+    a. 车灯
+      1）https://blog.csdn.net/rj1457365980/article/details/88593056?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750665816781818785355%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750665816781818785355&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-88593056-null-null.142^v32^down_rank,185^v2^control&utm_term=%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
   
   3、模型规划（设计）
   
