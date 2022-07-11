@@ -65,6 +65,12 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   2、代码复现 （图片、实验室电脑）
     a. 车灯
       1）https://blog.csdn.net/rj1457365980/article/details/88593056?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750665816781818785355%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750665816781818785355&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-88593056-null-null.142^v32^down_rank,185^v2^control&utm_term=%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
+      2)光流法
+  https://download.csdn.net/download/m0_60703264/21130241?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-4-21130241-download-10400530.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-4-21130241-download-10400530.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fm0_60703264%2F21130241&spm=1003.2020.3001.6616.5
+      3）matlab车辆检测,matlab车辆检测SVM,matlab
+    https://download.csdn.net/download/weixin_42696333/25522285?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750678616782248535444%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750678616782248535444&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~first_rank_ecpm_v1~rank_v31_ecpm-21-25522285-null-null.142^v32^down_rank,185^v2^control&utm_term=%E8%BD%A6%E7%81%AF%20%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187.50
+      4）源码基于MATLAB的车辆运动目标跟踪检测（源码）.zip
+      https://download.csdn.net/download/m0_64381885/47655192?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~baidujs~default-0-47655192-download-25522285.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~baidujs~default-0.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fm0_64381885%2F47655192&spm=1003.2020.3001.6616.3
     b. 深度学习
       1）MS-DAYOLO来了！多尺度域自适应的YOLO，恶劣天气也看得见！
   本文介绍了一种新的多尺度域自适应YOLO(MS-DAYOLO)框架，该框架在YOLOv4检测器的不同尺度上使用多个域自适应路径和相应的域分类器来生成域不变特征。
@@ -82,6 +88,29 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   原文：  https://blog.csdn.net/u010712012/article/details/84780943
   源代码：https://github.com/zengdiqing1994/Highway_violation_detection
   https://yanyx.blog.csdn.net/article/details/105573555?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&utm_relevant_index=8
+      5）夜间车辆检测
+  https://download.csdn.net/download/u011130443/10811569?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-1-10811569-download-12961111.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-1-10811569-download-12961111.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fu011130443%2F10811569&spm=1003.2020.3001.6616.1
+      6)yolo v3 + sort
+  https://download.csdn.net/download/wq6qeg88/85273451?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-6-85273451-download-10400530.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-6-85273451-download-10400530.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fwq6qeg88%2F85273451&spm=1003.2020.3001.6616.7
+      7)python车流量检测车流统计车辆计数yolov5 deepsort车流检测配置gpu和训练模型视频教程
+  https://download.csdn.net/download/babyai996/85100267?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-2-85100267-download-85273451.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-2-85100267-download-85273451.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fbabyai996%2F85100267&spm=1003.2020.3001.6616.2
+      8)FastestDet：比yolov5更快！更强！全新设计的超实时Anchor-free目标检测算法（附源代码下载
+     原文 https://blog.csdn.net/gzq0723/article/details/125630751?spm=1001.2014.3001.5502
+      9）车辆检测系统（python）
+      原文 https://download.csdn.net/download/qq_27524749/10415850?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-19-10415850-download-11520564.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-19-10415850-download-11520564.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fqq_27524749%2F10415850&spm=1003.2020.3001.6616.23
+      10）车辆识别代码matlab-Deep-Vehicle-Re-Id:使用多级特征提取的高效和深度车辆重新识别
+      原文 https://download.csdn.net/download/weixin_38538264/19146016?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ECTRLIST%7Edefault-1-19146016-blog-109580601.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ECTRLIST%7Edefault-1-19146016-blog-109580601.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=1
+      11）无卷积骨干网络：金字塔Transformer，提升目标检测/分割等任务精度（附源代码）...
+  https://blog.csdn.net/gzq0723/article/details/125611205?spm=1001.2014.3001.5502
+      12）“目标检测”+“视觉理解”实现对输入图像的理解及翻译（附源代码）
+    https://blog.csdn.net/gzq0723/article/details/125550660?spm=1001.2014.3001.5502
+      13)CVPR：IoU优化——在Anchor-Free中提升目标检测精度（附源码）
+  https://blog.csdn.net/gzq0723/article/details/125353737?spm=1001.2014.3001.5502
+    c. 重识别
+      1）Python-车辆重新识别的数据集和论文及代码的集合
+  https://download.csdn.net/download/weixin_39840588/11520564?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840588%2F11520564&spm=1003.2020.3001.6616.7
+    d. 去雾
+  https://blog.csdn.net/gzq0723/article/details/125550670?spm=1001.2014.3001.5502
   3、模型规划（设计）
   
   4、创新点设计
