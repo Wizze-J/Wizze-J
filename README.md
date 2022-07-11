@@ -106,6 +106,22 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
     https://blog.csdn.net/gzq0723/article/details/125550660?spm=1001.2014.3001.5502
       13)CVPR：IoU优化——在Anchor-Free中提升目标检测精度（附源码）
   https://blog.csdn.net/gzq0723/article/details/125353737?spm=1001.2014.3001.5502
+      14）NAACL2022：（代码实践）好的视觉引导促进更好的特征提取，多模态命名实体识别（附源代码下载）...
+  https://blog.csdn.net/gzq0723/article/details/125056783?spm=1001.2014.3001.5502
+      15）带有注意力RPN和多关系检测器的小样本目标检测网络（提供源码和数据及下载）...
+  https://blog.csdn.net/gzq0723/article/details/124239774?spm=1001.2014.3001.5502
+      16）多尺度深度特征（上）：多尺度特征学习才是目标检测精髓（干货满满，建议收藏）...
+  https://blog.csdn.net/gzq0723/article/details/124223655?spm=1001.2014.3001.5502
+      17）自适应特征融合用于Single-Shot目标检测（附源代码下载）
+   https://blog.csdn.net/gzq0723/article/details/122677612?spm=1001.2014.3001.5502
+      18）SPARSE DETR：具有可学习稀疏性的高效端到端目标检测（源代码下载）
+    https://blog.csdn.net/gzq0723/article/details/122833842?spm=1001.2014.3001.5502
+      19）腾讯Lab：用Transformer振兴CNN骨干网络（附论文源代码下载）
+    https://blog.csdn.net/gzq0723/article/details/120857678?spm=1001.2014.3001.5502
+  论文地址：https://arxiv.org/pdf/2110.05340.pdf
+  Github 地址：https://github.com/ChongjianGE/CARE
+      20）CVPR2021目标检测 | Weighted boxes fusion（附github源码及论文下载）
+  https://blog.csdn.net/gzq0723/article/details/116310814?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1-116310814-blog-122183289.pc_relevant_aa2&spm=1001.2101.3001.4242.2&utm_relevant_index=4
     c. 重识别
       1）Python-车辆重新识别的数据集和论文及代码的集合
   https://download.csdn.net/download/weixin_39840588/11520564?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840588%2F11520564&spm=1003.2020.3001.6616.7
@@ -113,10 +129,12 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   https://blog.csdn.net/gzq0723/article/details/125550670?spm=1001.2014.3001.5502
     e. 其他
   https://blog.csdn.net/gzq0723/article/details/125213695?spm=1001.2014.3001.5502
+  GitHub 7.5k star量，各种视觉Transformer的PyTorch实现合集整理好了 -含pytorch使用安装 https://blog.csdn.net/gzq0723/article/details/122295089?spm=1001.2014.3001.5502
+  
   3、模型规划（设计）
   基于夜间的图像识别+夜间车辆识别
   4、创新点设计
-  
+  GiraffeDet：对目标检测中对Neck进行优化提升最终精度 https://blog.csdn.net/gzq0723/article/details/123026195?spm=1001.2014.3001.5502
 step 2 ：未来计划
   1、创新点规划
   
