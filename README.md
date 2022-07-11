@@ -111,8 +111,10 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   https://download.csdn.net/download/weixin_39840588/11520564?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-6-11520564-download-19146016.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840588%2F11520564&spm=1003.2020.3001.6616.7
     d. 去雾
   https://blog.csdn.net/gzq0723/article/details/125550670?spm=1001.2014.3001.5502
+    e. 其他
+  https://blog.csdn.net/gzq0723/article/details/125213695?spm=1001.2014.3001.5502
   3、模型规划（设计）
-  
+  基于夜间的图像识别+夜间车辆识别
   4、创新点设计
   
 step 2 ：未来计划
