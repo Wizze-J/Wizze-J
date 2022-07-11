@@ -65,7 +65,23 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   2、代码复现 （图片、实验室电脑）
     a. 车灯
       1）https://blog.csdn.net/rj1457365980/article/details/88593056?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750665816781818785355%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750665816781818785355&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-88593056-null-null.142^v32^down_rank,185^v2^control&utm_term=%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
-  
+    b. 深度学习
+      1）MS-DAYOLO来了！多尺度域自适应的YOLO，恶劣天气也看得见！
+  本文介绍了一种新的多尺度域自适应YOLO(MS-DAYOLO)框架，该框架在YOLOv4检测器的不同尺度上使用多个域自适应路径和相应的域分类器来生成域不变特征。
+  论文：https://arxiv.org/abs/2106.01483
+  源代码：https://github.com/wenyyu/ImageAdaptive-YOLO
+  https://blog.csdn.net/gzq0723/article/details/123288007?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0-123288007-blog-122019339.pc_relevant_default&spm=1001.2101.3001.4242.1&utm_relevant_index=2
+————————————————————————
+  https://blog.csdn.net/amusi1994/article/details/117609234?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-117609234-blog-122019339.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-117609234-blog-122019339.pc_relevant_default&utm_relevant_index=1
+      2）Yolov7：最新最快的实时检测框架，最详细分析解释（附源代码）
+  源代码： https://blog.csdn.net/gzq0723/article/details/125700987
+      3) 车辆检测和车道检测
+  源代码： https://github.com/A-Rain/car-and-line-detection
+  https://blog.csdn.net/weixin_37762749/article/details/80785137?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8B&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-80785137.142^v32^down_rank,185^v2^control&spm=1018.2226.3001.4187
+      4）车道线检测
+  原文：  https://blog.csdn.net/u010712012/article/details/84780943
+  源代码：https://github.com/zengdiqing1994/Highway_violation_detection
+  https://yanyx.blog.csdn.net/article/details/105573555?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&utm_relevant_index=8
   3、模型规划（设计）
   
   4、创新点设计
