@@ -85,6 +85,10 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
   源代码： https://github.com/A-Rain/car-and-line-detection
   https://blog.csdn.net/weixin_37762749/article/details/80785137?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8B&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-80785137.142^v32^down_rank,185^v2^control&spm=1018.2226.3001.4187
       4）车道线检测
+  车道线检测方法分为两种：一种是传统算法，主要基于边缘特征或者是图像分割，通过图像预处理，特征提取等方式与卡尔曼滤波器等算法结合，在识别出车道线后采用后处理的方式形成最终的车道。然而这种传统方法易受到光照变化，行驶车辆，道路破损等干扰，导致效果欠佳。近年来，深度学习方法利用网络模型自动学习目标特征，具有较强的泛化能力，可以有效提高目标检测的准确率。得益于卷积神经网络的强大特征提取能力，性能也在不断提升。
+  原文链接：https://blog.csdn.net/mangguoyouyizhi/article/details/110542485
+————————————————
+
   原文：  https://blog.csdn.net/u010712012/article/details/84780943
   源代码：https://github.com/zengdiqing1994/Highway_violation_detection
   https://yanyx.blog.csdn.net/article/details/105573555?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&utm_relevant_index=8
