@@ -58,6 +58,8 @@ https://blog.csdn.net/bevison/article/details/120755843?spm=1001.2101.3001.6650.
 单位 | 印度理工学院；
 论文 | https://openaccess.thecvf.com/content/CVPR2021/papers/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.pdf
 代码 | https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time
+      8)CVPR 2022 Oral 大连理工提出SCI：快速、超强的低光照图像增强方法
+      https://blog.csdn.net/jacke121/article/details/125242059?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-125242059-blog-124818582.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-125242059-blog-124818582.pc_relevant_default&utm_relevant_index=1
     b.车辆检测
     1）文献综述
   https://blog.csdn.net/shaoshuaiche/article/details/9030057?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750704216782350884372%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165750704216782350884372&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-9030057-null-null.142^v32^down_rank,185^v2^control&utm_term=%E5%A4%9C%E9%97%B4%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
