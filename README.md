@@ -79,6 +79,8 @@ https://blog.csdn.net/jacke121/article/details/125242059?spm=1001.2101.3001.6661
 ###     b.车辆检测
 ####     1、文献综述
   https://blog.csdn.net/shaoshuaiche/article/details/9030057?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750704216782350884372%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165750704216782350884372&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-9030057-null-null.142^v32^down_rank,185^v2^control&utm_term=%E5%A4%9C%E9%97%B4%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
+###      异常事件检测
+	https://blog.csdn.net/weixin_33565558/article/details/116145890?ops_request_misc=&request_id=&biz_id=102&utm_term=%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8B%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-5-116145890.nonecase&spm=1018.2226.3001.4187
 ####   2、代码复现 （图片、实验室电脑）
 ##### a. 车灯    
 ######       1）
