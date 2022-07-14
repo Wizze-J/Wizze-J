@@ -156,8 +156,9 @@ https://blog.csdn.net/weixin_46716951/article/details/121478429?ops_request_misc
   	https://blog.csdn.net/gzq0723/article/details/124239774?spm=1001.2014.3001.5502
 ######       16）多尺度深度特征（上）：多尺度特征学习才是目标检测精髓（干货满满，建议收藏）...
 	  https://blog.csdn.net/gzq0723/article/details/124223655?spm=1001.2014.3001.5502
-######       17）自适应特征融合用于Single-Shot目标检测（附源代码下载）
+######       17）自适应特征融合用于Single-Shot目标检测（附源代码下载） https://github.com/GOATmessi7/ASFF
 	https://blog.csdn.net/gzq0723/article/details/122677612?spm=1001.2014.3001.5502
+	https://blog.csdn.net/TJMtaotao/article/details/104473972?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-104473972-blog-122677612.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-104473972-blog-122677612.pc_relevant_multi_platform_whitelistv1&utm_relevant_index=1
 ######       18）SPARSE DETR：具有可学习稀疏性的高效端到端目标检测（源代码下载）
     https://blog.csdn.net/gzq0723/article/details/122833842?spm=1001.2014.3001.5502
 ######       19）腾讯Lab：用Transformer振兴CNN骨干网络（附论文源代码下载）
