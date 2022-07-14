@@ -73,7 +73,10 @@ https://blog.csdn.net/jacke121/article/details/125242059?spm=1001.2101.3001.6661
 ####       10）Location-aware Single Image Reflection Removal
 本文提出一种新的基于位置感知的图像反射去除方法。网络设计了一个反射检测模块来回归概率反射置信度图，将多尺度拉普拉斯特征作为输入。
       https://github.com/zdlarr/Location-aware-SIRR
-      
+####       11)通过迭代逐步去除图像中的反射
+https://github.com/zdlarr/Location-aware-SIRR
+---------------------------------------------
+https://blog.csdn.net/zeusee/article/details/122808995?spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-16-122808995-blog-115436030.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-16-122808995-blog-115436030.pc_relevant_multi_platform_whitelistv1&utm_relevant_index=22
 #########光斑去除#########
 ####       11)去模糊 https://github.com/swz30/MPRNet
 ###     b.车辆检测
