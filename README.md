@@ -128,6 +128,8 @@ https://blog.csdn.net/rj1457365980/article/details/88593056?ops_request_misc=%25
   https://yanyx.blog.csdn.net/article/details/105573555?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-105573555-blog-80785137.pc_relevant_default&utm_relevant_index=8
 #####  车道线检测+车辆流量计数 （具体流程图）
 https://azusa.blog.csdn.net/article/details/105916002?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3-105916002-blog-77160579.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3-105916002-blog-77160579.pc_relevant_aa&utm_relevant_index=6
+
+https://blog.csdn.net/zimiao552147572/article/details/106088758
 #####        4.1）250fps，实时、高性能车道线检测算法 LaneATT——Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection
 https://blog.csdn.net/weixin_46716951/article/details/121478429?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165778428516780366567271%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165778428516780366567271&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-8-121478429-null-null.142^v32^down_rank,185^v2^control&utm_term=%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%20%E5%A4%9C%E9%97%B4&spm=1018.2226.3001.4187
 ######       5）夜间车辆检测
