@@ -87,6 +87,12 @@ https://blog.csdn.net/zeusee/article/details/122808995?spm=1001.2101.3001.6650.1
 ####   2、代码复现 （图片、实验室电脑）
 ##### 车辆识别跟踪代码实现讲解
 https://wuxian.blog.csdn.net/article/details/115278856?spm=1001.2101.3001.6650.13&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-13-115278856-blog-77160579.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-13-115278856-blog-77160579.pc_relevant_aa&utm_relevant_index=23
+
+######讲解
+【yolov4目标检测】(2) 多目标跟踪，案例：车辆行人的跟踪和计数，附python完整代码和数据集
+https://blog.csdn.net/dgvv4/article/details/122178682?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-14-122178682-blog-118159964.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-14-122178682-blog-118159964.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=18
+链接：https://pan.baidu.com/s/1mhmzOWGS6KGYhEul5Lej-w 
+提取码：1234
 ##### a. 车灯    
 ######       1）
 https://blog.csdn.net/rj1457365980/article/details/88593056?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165750665816781818785355%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165750665816781818785355&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-88593056-null-null.142^v32^down_rank,185^v2^control&utm_term=%E8%BD%A6%E7%81%AF%E6%A3%80%E6%B5%8B&spm=1018.2226.3001.4187
