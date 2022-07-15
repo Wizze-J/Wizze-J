@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 # step 1 ：研究进展
 ##  1、论文研读
 ### a.图像增强（低照度方面）
+##### 白平衡+同态滤波+亮度归一化，将夜晚照片变得和白天一样
+https://download.csdn.net/download/sleeeper/4579090?spm=1001.2101.3001.6650.19&utm_medium=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-19-4579090-blog-111482891.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-19-4579090-blog-111482891.pc_relevant_aa&utm_relevant_index=23
 #### 1）ZERO-SHOT RESTORATION OF UNDEREXPOSED IMAGES VIA ROBUST RETINEX DECOMPOSITION
 
 低照度图像通常会出现严重的质量退化，如在黑暗中能见度差和潜在噪声。以往的低曝光图像复原方法大多忽略了噪声，在拉伸对比度的过程中对噪声进行放大。在增强低照度图像的同时，本文可以明确地预测噪声以达到去噪的目的。本文提出了一种新型的三分支卷积神经网络RRDNet(鲁棒Retinex分解网络的简称)，将输入图像分解为光照、反射率和噪声三个分量。作为一个特定于图像的网络，RRDNet不需要成对的图像训练。相反，RRDNet的权值通过专门设计的损失函数训练。设计了这样一个损耗函数来评估测试图像的电流分解和引导噪声估计。实验表明，RRDNet具有较强的鲁棒校正能力，具有整体的自然度和良好的视觉质量。为了使结果重现，源代码在  https://aaaaangel.github.io/RRDNet-Homepage.
