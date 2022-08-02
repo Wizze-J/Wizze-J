@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ##### 代码多 详细
 https://blog.csdn.net/programman83/article/details/1349262?ops_request_misc=&request_id=&biz_id=102&utm_term=%E5%A4%9C%E9%97%B4%20%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-1349262.142^v37^down_rank
 
-
+https://zegotech.blog.csdn.net/article/details/125933553
 
 ##### 白平衡+同态滤波+亮度归一化，将夜晚照片变得和白天一样
 https://download.csdn.net/download/sleeeper/4579090?spm=1001.2101.3001.6650.19&utm_medium=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-19-4579090-blog-111482891.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-19-4579090-blog-111482891.pc_relevant_aa&utm_relevant_index=23
