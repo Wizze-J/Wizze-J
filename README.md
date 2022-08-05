@@ -17,6 +17,11 @@ https://blog.csdn.net/boon_228/article/details/115069772
 ##  1、论文研读
 ### a.图像增强（低照度方面）
 
+##### EnlightenGAN
+https://github.com/VITA-Group/EnlightenGAN
+
+https://blog.csdn.net/Dummy_/article/details/106873857?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-106873857-blog-116011009.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-106873857-blog-116011009.pc_relevant_multi_platform_whitelistv1&utm_relevant_index=1
+
 ##### 算法总结
 https://blog.csdn.net/walletiger/article/details/111189808?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-14-111189808-blog-113831022.pc_relevant_sortByStrongTime&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-14-111189808-blog-113831022.pc_relevant_sortByStrongTime&utm_relevant_index=23
 
