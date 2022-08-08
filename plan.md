@@ -16,7 +16,21 @@ You can click the Preview link to take a look at your changes.
 ## 0 数据集
 
 ## 1 现今算法存在的问题和方案
+### 1、防止图像增强的过曝光问题： 阈值。
+
+### 2、地面反光去除：偏振光去除反射。
+
+### 3、环境光特征的遮蔽，远处灯光处理。
+
+### 4、车灯的凸显：  阈值。
 
 ## 2 算法实现
+### 1、基于阈值的多尺度Retinex。
+
+### 2、双通道先验。
+
+### 3、GAN对抗网络，如EnlightenGAN
+
+### 4、增强夜间可见度：RRDNet，ExcNet，RetinexDIP，Zero-DCE，OpenCE，BIMEF，REDIIRT，RUAS，MPRNet...;
 
 ## 3 总结
