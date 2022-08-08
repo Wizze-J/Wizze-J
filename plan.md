@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 4、车灯的凸显：  阈值。
 
+### 5、增强后噪点的去除
+1、RGB转HSV 进行BM3D去噪。
 ## 2 算法实现
 ### 1、基于阈值的多尺度Retinex。
 
