@@ -56,6 +56,9 @@ You can click the Preview link to take a look at your changes.
 ### 8、改进Retinex
 
 * 于Retinex理论的图像增强算法也并非是十全十美的,SSR算法无法同时提供丰富的动态范围压缩和颜色保真，经低尺度SSR算法增强后的图像存在光晕情况，而经高尺度SSR算法增强后的图像尽管可以消除光晕，但动态范围压缩效果不佳。MSR 算法弥补了SSR算法的不足，增强后图像细节更加突出，色彩更加丰富,但其增强过程可能会因噪声的增加而使图像局部区域色彩失真，最终影响整体视觉效果。MSRCR算法又进一步解决了MSR算法存在的这一问题,处理后的图像效果更佳,但计算过程过于复杂。
+#### RetinexDIP 
+不需要训练 提出了新的分解生成策略
+https://github.com/zhaozunjin/RetinexDIP
 
 https://blog.csdn.net/qq_43287277/article/details/109323033
 
