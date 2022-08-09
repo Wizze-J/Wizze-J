@@ -50,4 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 6、带颜色恢复的MSR方法MSRCR(Multi-Scale Retinex with Color Restoration)
 
+### 7、三分支卷积神经网络RRDNet
+我测试的这副夜间图像，因为本身包含的大量噪声，所以效果没有达到我预期想要的结果。我看了好多增强和去噪算法在这幅图像上的效果都不是特别好。这个方法的增强效果也不是很出彩，包括作者在总结的部分也说未来会在光照调整部分进行调整。
+
 ## 3 总结
