@@ -48,4 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 5、ZEGO 低照度图像增强
 
+### 6、带颜色恢复的MSR方法MSRCR(Multi-Scale Retinex with Color Restoration)
+
 ## 3 总结
