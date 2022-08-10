@@ -66,4 +66,6 @@ https://blog.csdn.net/qq_39751352/article/details/124818582?ops_request_misc=%25
 
 https://blog.csdn.net/wty98wzq/article/details/107515309?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-107515309-blog-109323033.pc_relevant_multi_platform_featuressortv2removedup&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-107515309-blog-109323033.pc_relevant_multi_platform_featuressortv2removedup&utm_relevant_index=19
 
+#### 全局自适应
+使用全局对数平均值 来提高低对数均值的图像 -【基于Retinex的夜间低照度图像自适应增强算法】
 ## 3 总结
