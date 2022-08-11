@@ -65,7 +65,11 @@ You can click the Preview link to take a look at your changes.
 * 基于直方图规定化和对数变换   -解决Gamma变换的自适应性。
 照度分量的校正（修改Gamma变换）==》1 对数变换初步调节   2 修正直方图   3 直方图规定化的照度校正
 * *展望  1联合滤波器的空间距离权重和像素差权重回加大计算耗时   2 对高曝光的图像 ，校正不明显    3实验图像范围小*
-#### RetinexDIP 
+
+#### RetinexDIP
+
+https://arxiv.org/pdf/1808.04560.pdf
+
 不需要训练 提出了新的分解生成策略
 https://github.com/zhaozunjin/RetinexDIP
 
