@@ -68,6 +68,11 @@ You can click the Preview link to take a look at your changes.
 
 #### RetinexDIP
 
+Retinex算法的缺点：
+1、 光影过度中出现光晕。
+2、 图像的处理能力不佳。
+3、 色彩保持能力较弱。   -《基于Retinex算法的深入探究》
+
 https://arxiv.org/pdf/1808.04560.pdf
 
 不需要训练 提出了新的分解生成策略
